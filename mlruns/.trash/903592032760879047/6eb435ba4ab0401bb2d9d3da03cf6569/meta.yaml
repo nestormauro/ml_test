@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/903592032760879047/6eb435ba4ab0401bb2d9d3da03cf6569/artifacts
+end_time: 1676751610987
+entry_point_name: ''
+experiment_id: '903592032760879047'
+lifecycle_stage: active
+run_id: 6eb435ba4ab0401bb2d9d3da03cf6569
+run_name: resilient-deer-55
+run_uuid: 6eb435ba4ab0401bb2d9d3da03cf6569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751607649
+status: 3
+tags: []
+user_id: nrueda

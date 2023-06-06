@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/2f63ba7f2c8a4582884ea88c7a4a798f/artifacts
+end_time: 1676756653989
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 2f63ba7f2c8a4582884ea88c7a4a798f
+run_name: redolent-bird-202
+run_uuid: 2f63ba7f2c8a4582884ea88c7a4a798f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756650761
+status: 4
+tags: []
+user_id: nrueda

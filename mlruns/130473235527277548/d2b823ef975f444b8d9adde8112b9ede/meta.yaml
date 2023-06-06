@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/d2b823ef975f444b8d9adde8112b9ede/artifacts
+end_time: 1676756884773
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: d2b823ef975f444b8d9adde8112b9ede
+run_name: popular-pug-280
+run_uuid: d2b823ef975f444b8d9adde8112b9ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756880315
+status: 3
+tags: []
+user_id: nrueda

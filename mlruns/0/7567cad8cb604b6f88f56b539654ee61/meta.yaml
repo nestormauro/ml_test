@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/0/7567cad8cb604b6f88f56b539654ee61/artifacts
+deleted_time: 1676750635520
+end_time: 1676750241661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7567cad8cb604b6f88f56b539654ee61
+run_name: sneaky-rat-912
+run_uuid: 7567cad8cb604b6f88f56b539654ee61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676750238315
+status: 3
+tags: []
+user_id: nrueda

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/3bbb7cb0afd94cb5a806a9d51af59f7e/artifacts
+deleted_time: 1676842778579
+end_time: 1676757117301
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: deleted
+run_id: 3bbb7cb0afd94cb5a806a9d51af59f7e
+run_name: invincible-ox-157
+run_uuid: 3bbb7cb0afd94cb5a806a9d51af59f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757113099
+status: 4
+tags: []
+user_id: nrueda

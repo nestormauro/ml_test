@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/39ae57fcfa614b23bb0fcc31066c6703/artifacts
+end_time: 1676756835061
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 39ae57fcfa614b23bb0fcc31066c6703
+run_name: burly-wasp-590
+run_uuid: 39ae57fcfa614b23bb0fcc31066c6703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756831013
+status: 3
+tags: []
+user_id: nrueda

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/3f05f41466484ca493d19a2a4c16dc7a/artifacts
+end_time: 1676847366756
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 3f05f41466484ca493d19a2a4c16dc7a
+run_name: brawny-shark-271
+run_uuid: 3f05f41466484ca493d19a2a4c16dc7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676847362852
+status: 3
+tags: []
+user_id: nrueda

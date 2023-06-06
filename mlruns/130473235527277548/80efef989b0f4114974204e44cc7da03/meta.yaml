@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/80efef989b0f4114974204e44cc7da03/artifacts
+end_time: 1676844559796
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 80efef989b0f4114974204e44cc7da03
+run_name: unleashed-shrew-803
+run_uuid: 80efef989b0f4114974204e44cc7da03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676844556850
+status: 3
+tags: []
+user_id: nrueda

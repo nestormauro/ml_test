@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/4e91966a55c24ebf90596789a88c1c10/artifacts
+end_time: 1676756088014
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 4e91966a55c24ebf90596789a88c1c10
+run_name: unequaled-ant-262
+run_uuid: 4e91966a55c24ebf90596789a88c1c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756084989
+status: 3
+tags: []
+user_id: nrueda

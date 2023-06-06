@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/65d3ce5cffd446e2b05dee54149f8f7d/artifacts
+end_time: 1676756967757
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 65d3ce5cffd446e2b05dee54149f8f7d
+run_name: honorable-eel-315
+run_uuid: 65d3ce5cffd446e2b05dee54149f8f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756964250
+status: 3
+tags: []
+user_id: nrueda

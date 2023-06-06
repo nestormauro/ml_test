@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/53e13bf653204daab6746b7f3fbd3d2b/artifacts
+end_time: 1676914995617
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 53e13bf653204daab6746b7f3fbd3d2b
+run_name: shivering-shark-684
+run_uuid: 53e13bf653204daab6746b7f3fbd3d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676914991889
+status: 3
+tags: []
+user_id: nrueda

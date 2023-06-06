@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/e372c16989d84c12a471781f3645b238/artifacts
+end_time: 1676757040841
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: e372c16989d84c12a471781f3645b238
+run_name: brawny-mule-314
+run_uuid: e372c16989d84c12a471781f3645b238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757032132
+status: 3
+tags: []
+user_id: nrueda

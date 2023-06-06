@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/c1d4377650aa49f481a2742cfa89e0d7/artifacts
+end_time: 1676751674986
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: c1d4377650aa49f481a2742cfa89e0d7
+run_name: redolent-ant-682
+run_uuid: c1d4377650aa49f481a2742cfa89e0d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751670980
+status: 3
+tags: []
+user_id: nrueda

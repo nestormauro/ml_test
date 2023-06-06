@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/180290d8204c4d61854f093d2a00691d/artifacts
+end_time: 1676843747423
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 180290d8204c4d61854f093d2a00691d
+run_name: secretive-eel-708
+run_uuid: 180290d8204c4d61854f093d2a00691d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676843743597
+status: 3
+tags: []
+user_id: nrueda

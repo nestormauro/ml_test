@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/c0a7eca491834ca1974f3307f44e5dba/artifacts
+end_time: 1676756516550
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: c0a7eca491834ca1974f3307f44e5dba
+run_name: overjoyed-croc-611
+run_uuid: c0a7eca491834ca1974f3307f44e5dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756512484
+status: 3
+tags: []
+user_id: nrueda

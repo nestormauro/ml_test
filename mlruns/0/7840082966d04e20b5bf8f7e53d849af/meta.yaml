@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/0/7840082966d04e20b5bf8f7e53d849af/artifacts
+deleted_time: 1676750635520
+end_time: 1676750350956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7840082966d04e20b5bf8f7e53d849af
+run_name: intrigued-bee-878
+run_uuid: 7840082966d04e20b5bf8f7e53d849af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676750348158
+status: 3
+tags: []
+user_id: nrueda

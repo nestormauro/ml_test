@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/fe570b9b365e4e49853d3f7014d8e537/artifacts
+end_time: 1676756277066
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: fe570b9b365e4e49853d3f7014d8e537
+run_name: melodic-crab-457
+run_uuid: fe570b9b365e4e49853d3f7014d8e537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756270637
+status: 3
+tags: []
+user_id: nrueda

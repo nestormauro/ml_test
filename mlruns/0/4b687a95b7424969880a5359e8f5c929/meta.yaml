@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/0/4b687a95b7424969880a5359e8f5c929/artifacts
+deleted_time: 1676750635521
+end_time: 1676750097084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4b687a95b7424969880a5359e8f5c929
+run_name: redolent-mole-39
+run_uuid: 4b687a95b7424969880a5359e8f5c929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676750096787
+status: 4
+tags: []
+user_id: nrueda

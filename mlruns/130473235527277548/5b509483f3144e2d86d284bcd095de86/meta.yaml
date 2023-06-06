@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/5b509483f3144e2d86d284bcd095de86/artifacts
+deleted_time: 1676842778578
+end_time: 1676841432891
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: deleted
+run_id: 5b509483f3144e2d86d284bcd095de86
+run_name: bustling-cod-377
+run_uuid: 5b509483f3144e2d86d284bcd095de86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676841432616
+status: 4
+tags: []
+user_id: nrueda

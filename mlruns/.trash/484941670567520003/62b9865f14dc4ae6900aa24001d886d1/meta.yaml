@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/484941670567520003/62b9865f14dc4ae6900aa24001d886d1/artifacts
+end_time: 1676751110780
+entry_point_name: ''
+experiment_id: '484941670567520003'
+lifecycle_stage: active
+run_id: 62b9865f14dc4ae6900aa24001d886d1
+run_name: luxuriant-wasp-88
+run_uuid: 62b9865f14dc4ae6900aa24001d886d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751108074
+status: 4
+tags: []
+user_id: nrueda

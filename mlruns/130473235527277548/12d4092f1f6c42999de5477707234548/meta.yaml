@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/12d4092f1f6c42999de5477707234548/artifacts
+deleted_time: 1676915043571
+end_time: 1676914938049
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: deleted
+run_id: 12d4092f1f6c42999de5477707234548
+run_name: handsome-turtle-775
+run_uuid: 12d4092f1f6c42999de5477707234548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676914938042
+status: 4
+tags: []
+user_id: nrueda

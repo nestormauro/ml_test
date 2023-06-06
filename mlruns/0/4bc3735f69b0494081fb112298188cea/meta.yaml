@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/0/4bc3735f69b0494081fb112298188cea/artifacts
+deleted_time: 1676751689548
+end_time: 1676751166274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4bc3735f69b0494081fb112298188cea
+run_name: charming-koi-41
+run_uuid: 4bc3735f69b0494081fb112298188cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751163340
+status: 3
+tags: []
+user_id: nrueda

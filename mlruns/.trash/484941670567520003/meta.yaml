@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/484941670567520003
+creation_time: 1676750663646
+experiment_id: '484941670567520003'
+last_update_time: 1676751650315
+lifecycle_stage: active
+name: car-evaluation
+tags: {}

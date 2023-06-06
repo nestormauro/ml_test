@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/c8e2f375c9ab4b98a52b26bca53c341b/artifacts
+end_time: 1676844591095
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: c8e2f375c9ab4b98a52b26bca53c341b
+run_name: able-lamb-364
+run_uuid: c8e2f375c9ab4b98a52b26bca53c341b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676844588376
+status: 3
+tags: []
+user_id: nrueda

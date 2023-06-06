@@ -1,0 +1,16 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/0/3fb66de8b0594b1d835db4e30c7f024c/artifacts
+deleted_time: 1676750635521
+end_time: 1676750204689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3fb66de8b0594b1d835db4e30c7f024c
+run_name: bright-shark-768
+run_uuid: 3fb66de8b0594b1d835db4e30c7f024c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676750204405
+status: 4
+tags: []
+user_id: nrueda

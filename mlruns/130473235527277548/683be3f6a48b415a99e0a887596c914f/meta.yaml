@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nrueda/Workspace/python/private_lab/experiments/car_evaluation/mlruns/130473235527277548/683be3f6a48b415a99e0a887596c914f/artifacts
+end_time: 1676756821708
+entry_point_name: ''
+experiment_id: '130473235527277548'
+lifecycle_stage: active
+run_id: 683be3f6a48b415a99e0a887596c914f
+run_name: fortunate-mole-789
+run_uuid: 683be3f6a48b415a99e0a887596c914f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756817198
+status: 3
+tags: []
+user_id: nrueda
